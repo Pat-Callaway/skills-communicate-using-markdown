@@ -5,3 +5,10 @@ print('Testing with code blocks in markdown')
 ```
 For the above code snippit use backticks not single quotes.
 
+## Working with task lists
+
+- [x] This task is complete
+- [ ] This task is not
+- [x] This task is also complete 
+
+
